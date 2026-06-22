@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v8.19.8.0-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <message:Header>
+    <message:ID>B2C97430-E942-4DB6-94E9-AE14BA599299</message:ID>
+    <message:Test>false</message:Test>
+    <message:Sender id="Disseminate_Final_DMZ" />
+    <message:DataSetID>DSD_RDTAX</message:DataSetID>
+    <message:DataSetAction>Information</message:DataSetAction>
+  </message:Header>
+  <ns1:DataSet action="Information">
+    <ns1:Series REF_AREA="CHE">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="17.12" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="17.12" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="CHL">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="19.43" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="19.43" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="CRI">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="9.45" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="9.45" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="DEU">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="9.49" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="9.49" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="EST">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="8.62" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="8.62" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="FRA">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="24.97" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="24.97" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="GRC">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="19.06" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="19.06" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="HRV">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="15.86" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="15.86" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="HUN">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="16.87" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="16.87" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="ITA">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="9.68" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="9.68" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="JPN">
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="41.36" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="41.36" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="LUX">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="44.48" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="44.48" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="POL">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="18.32" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="18.32" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="PRT">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="13.31" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="13.31" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="ROU">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="27.39" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="27.39" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="SVK">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="13.65" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="13.65" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="SVN">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="11.95" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="11.95" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="TUR">
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="11.79" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="11.79" />
+    </ns1:Series>
+  </ns1:DataSet>
+</message:StructureSpecificData>
