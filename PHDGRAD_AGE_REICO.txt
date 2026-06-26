@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>0F6C4E78-B865-4572-BA9E-BD65BBC1B624</message:ID>
+    <message:ID>53281AEA-1603-4FBD-AD4F-37484505147A</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -10,8 +10,6 @@
   </message:Header>
   <ns1:DataSet action="Information">
     <ns1:Series REF_AREA="AUS">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="36.85" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="36.75" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="36.76" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="36.77" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="36.48" />
@@ -24,8 +22,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="36.18" />
     </ns1:Series>
     <ns1:Series REF_AREA="AUT">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.19" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.76" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="33.22" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="33.13" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="34.52" />
@@ -38,8 +34,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="33.11" />
     </ns1:Series>
     <ns1:Series REF_AREA="BEL">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="31.95" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.14" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="32.32" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.55" />
       <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="32.74" />
@@ -62,8 +56,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="40.03" />
     </ns1:Series>
     <ns1:Series REF_AREA="CAN">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="35.14" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="35.06" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.93" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="35.02" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="34.92" />
@@ -76,8 +68,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.99" />
     </ns1:Series>
     <ns1:Series REF_AREA="CHE">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="32.44" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.42" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="32.61" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="32.45" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.54" />
@@ -90,8 +80,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="32.68" />
     </ns1:Series>
     <ns1:Series REF_AREA="CHL">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="36.67" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="37.43" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="37.0" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="36.84" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="37.16" />
@@ -115,8 +103,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="42.09" />
     </ns1:Series>
     <ns1:Series REF_AREA="CZE">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="34.0" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="34.26" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.12" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="34.47" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="34.11" />
@@ -129,8 +115,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.73" />
     </ns1:Series>
     <ns1:Series REF_AREA="DEU">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="31.81" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="31.86" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="31.97" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="32.01" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.1" />
@@ -143,8 +127,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="32.12" />
     </ns1:Series>
     <ns1:Series REF_AREA="DNK">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.04" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="33.34" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="33.21" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="33.3" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="33.39" />
@@ -157,8 +139,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="32.76" />
     </ns1:Series>
     <ns1:Series REF_AREA="ESP">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="36.68" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="36.65" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="36.53" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="38.11" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="40.27" />
@@ -181,9 +161,7 @@
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="34.64" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.64" />
     </ns1:Series>
-    <ns1:Series REF_AREA="EU25">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="30.93" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.32" />
+    <ns1:Series REF_AREA="EU27_2020">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.7" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="34.81" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="35.03" />
@@ -196,8 +174,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="33.14" />
     </ns1:Series>
     <ns1:Series REF_AREA="FIN">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="37.77" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="37.85" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="37.58" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="37.71" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="38.09" />
@@ -210,8 +186,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="38.04" />
     </ns1:Series>
     <ns1:Series REF_AREA="GBR">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.73" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="33.03" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="32.91" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="32.54" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.46" />
@@ -224,7 +198,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="32.52" />
     </ns1:Series>
     <ns1:Series REF_AREA="GRC">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="35.03" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="36.64" />
       <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="37.24" />
       <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="37.81" />
@@ -247,8 +220,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="37.61" />
     </ns1:Series>
     <ns1:Series REF_AREA="HUN">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="35.87" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="33.98" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.42" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="34.96" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="34.63" />
@@ -260,12 +231,7 @@
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="35.25" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="35.25" />
     </ns1:Series>
-    <ns1:Series REF_AREA="IRL">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.14" />
-    </ns1:Series>
     <ns1:Series REF_AREA="ISL">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="39.47" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="40.08" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="38.1" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="39.04" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="37.19" />
@@ -278,8 +244,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="40.37" />
     </ns1:Series>
     <ns1:Series REF_AREA="ISR">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="37.71" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="38.08" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="37.89" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="38.47" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="38.7" />
@@ -292,8 +256,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="38.89" />
     </ns1:Series>
     <ns1:Series REF_AREA="ITA">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.07" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="33.2" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="32.17" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="28.87" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="31.6" />
@@ -306,8 +268,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="32.37" />
     </ns1:Series>
     <ns1:Series REF_AREA="KOR">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="39.47" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="39.41" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="39.62" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="39.51" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="39.43" />
@@ -320,8 +280,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="38.79" />
     </ns1:Series>
     <ns1:Series REF_AREA="LTU">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.04" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.82" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="33.27" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="33.48" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.59" />
@@ -334,8 +292,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="35.11" />
     </ns1:Series>
     <ns1:Series REF_AREA="LUX">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="31.58" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.22" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="31.4" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="32.52" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.53" />
@@ -348,8 +304,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="31.54" />
     </ns1:Series>
     <ns1:Series REF_AREA="LVA">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="37.81" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="36.42" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="37.28" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="37.08" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="38.89" />
@@ -362,8 +316,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="37.97" />
     </ns1:Series>
     <ns1:Series REF_AREA="NLD">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="31.32" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="31.49" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="31.74" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="31.75" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="31.75" />
@@ -373,8 +325,6 @@
       <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="31.74" />
     </ns1:Series>
     <ns1:Series REF_AREA="NOR">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="36.9" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="36.78" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="37.61" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="37.45" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="37.3" />
@@ -387,8 +337,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="36.92" />
     </ns1:Series>
     <ns1:Series REF_AREA="NZL">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="36.88" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="36.68" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="36.16" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="36.89" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="36.57" />
@@ -401,8 +349,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="33.25" />
     </ns1:Series>
     <ns1:Series REF_AREA="OECD">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="34.81" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="34.97" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="35.04" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="35.28" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="35.37" />
@@ -415,8 +361,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="35.47" />
     </ns1:Series>
     <ns1:Series REF_AREA="POL">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="32.6" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="34.22" />
       <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="33.44" />
       <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="33.68" />
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="34.18" />
@@ -424,8 +368,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.24" />
     </ns1:Series>
     <ns1:Series REF_AREA="PRT">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="38.35" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="38.67" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="39.38" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="38.73" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="38.74" />
@@ -446,8 +388,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="36.94" />
     </ns1:Series>
     <ns1:Series REF_AREA="SVK">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="31.44" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="32.0" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="31.72" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="31.16" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="31.8" />
@@ -460,8 +400,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="31.73" />
     </ns1:Series>
     <ns1:Series REF_AREA="SVN">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.07" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="34.35" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.28" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="38.7" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="32.72" />
@@ -474,8 +412,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.0" />
     </ns1:Series>
     <ns1:Series REF_AREA="SWE">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="35.79" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="35.93" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="36.06" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="35.66" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="36.03" />
@@ -488,8 +424,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="36.19" />
     </ns1:Series>
     <ns1:Series REF_AREA="TUR">
-      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="33.15" />
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="34.28" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.11" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="34.4" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="34.43" />
