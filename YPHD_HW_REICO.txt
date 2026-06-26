@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>A0224DF8-41F1-467F-9C83-457242EE173F</message:ID>
+    <message:ID>CC8A3A12-64AB-47D7-9FBA-BD86DCBCB3B0</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -127,15 +127,15 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="1907.2" />
     </ns1:Series>
     <ns1:Series REF_AREA="EU27_2020">
-      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="1969.06" />
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="1971.31" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="2012.83" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="1968.84" />
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="1947.39" />
-      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="1937.39" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="1923.73" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="1948.43" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="1941.99" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="1926.71" />
       <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="1960.99" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="1918.77" />
-      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="1895.02" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="1912.78" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="1887.93" />
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="1906.42" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="1906.42" />
     </ns1:Series>
@@ -272,12 +272,8 @@
       <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="1659.27" />
     </ns1:Series>
     <ns1:Series REF_AREA="NLD">
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="1926.52" />
-      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="1869.61" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="1867.17" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="2032.5" />
-      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="2015.48" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="2015.48" />
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="2014.03" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="1961.42" />
     </ns1:Series>
     <ns1:Series REF_AREA="NOR">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="1685.0" />
@@ -293,10 +289,7 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="1709.0" />
     </ns1:Series>
     <ns1:Series REF_AREA="OECD">
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="1929.06" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="1907.89" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="1909.98" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="1909.98" />
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="1979.76" />
     </ns1:Series>
     <ns1:Series REF_AREA="POL">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="2008.5" />
