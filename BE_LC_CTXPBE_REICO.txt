@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>D1E168B7-34E5-473B-A86A-788FF16E7E68</message:ID>
+    <message:ID>3703DB53-793D-4E87-9D63-51D8A55A510F</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -309,6 +309,31 @@
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="88596.93" />
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="79921.78" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="79921.78" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="EU27_2020">
+      <ns1:Obs TIME_PERIOD="2000" OBS_VALUE="63940.69" />
+      <ns1:Obs TIME_PERIOD="2001" OBS_VALUE="67652.51" />
+      <ns1:Obs TIME_PERIOD="2002" OBS_VALUE="67187.6" />
+      <ns1:Obs TIME_PERIOD="2003" OBS_VALUE="72369.65" />
+      <ns1:Obs TIME_PERIOD="2004" OBS_VALUE="72069.22" />
+      <ns1:Obs TIME_PERIOD="2005" OBS_VALUE="74244.54" />
+      <ns1:Obs TIME_PERIOD="2006" OBS_VALUE="73170.87" />
+      <ns1:Obs TIME_PERIOD="2007" OBS_VALUE="76861.11" />
+      <ns1:Obs TIME_PERIOD="2008" OBS_VALUE="71212.78" />
+      <ns1:Obs TIME_PERIOD="2009" OBS_VALUE="83424.57" />
+      <ns1:Obs TIME_PERIOD="2010" OBS_VALUE="75134.4" />
+      <ns1:Obs TIME_PERIOD="2011" OBS_VALUE="81835.6" />
+      <ns1:Obs TIME_PERIOD="2012" OBS_VALUE="75731.6" />
+      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="81592.73" />
+      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="69966.7" />
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="83142.45" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="77129.07" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="82601.16" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="85713.44" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="73485.53" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="83351.98" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="80349.74" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="80349.74" />
     </ns1:Series>
     <ns1:Series REF_AREA="FIN">
       <ns1:Obs TIME_PERIOD="2000" OBS_VALUE="84764.93" />
@@ -718,6 +743,27 @@
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="68252.33" />
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="67591.34" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="67591.34" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="OECD">
+      <ns1:Obs TIME_PERIOD="2001" OBS_VALUE="76496.49" />
+      <ns1:Obs TIME_PERIOD="2003" OBS_VALUE="78812.38" />
+      <ns1:Obs TIME_PERIOD="2004" OBS_VALUE="82574.57" />
+      <ns1:Obs TIME_PERIOD="2005" OBS_VALUE="79786.66" />
+      <ns1:Obs TIME_PERIOD="2006" OBS_VALUE="80733.93" />
+      <ns1:Obs TIME_PERIOD="2007" OBS_VALUE="80622.69" />
+      <ns1:Obs TIME_PERIOD="2008" OBS_VALUE="81291.34" />
+      <ns1:Obs TIME_PERIOD="2009" OBS_VALUE="85660.04" />
+      <ns1:Obs TIME_PERIOD="2010" OBS_VALUE="80744.18" />
+      <ns1:Obs TIME_PERIOD="2011" OBS_VALUE="84456.09" />
+      <ns1:Obs TIME_PERIOD="2012" OBS_VALUE="82878.84" />
+      <ns1:Obs TIME_PERIOD="2013" OBS_VALUE="84975.12" />
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="90635.13" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="84854.72" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="89723.64" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="95239.67" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="92652.92" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="92106.2" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="92106.2" />
     </ns1:Series>
     <ns1:Series REF_AREA="POL">
       <ns1:Obs TIME_PERIOD="2000" OBS_VALUE="37578.38" />
