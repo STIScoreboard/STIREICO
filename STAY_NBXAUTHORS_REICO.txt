@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>FD3C06F4-FBAA-4F02-B0A1-4760519699C2</message:ID>
+    <message:ID>9BDDF0E6-8D5A-4D3D-8395-DD1C319B07EE</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -73,6 +73,10 @@
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="85.71" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="85.71" />
     </ns1:Series>
+    <ns1:Series REF_AREA="EGY">
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="89.79" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="89.79" />
+    </ns1:Series>
     <ns1:Series REF_AREA="ESP">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="91.55" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="91.55" />
@@ -80,6 +84,10 @@
     <ns1:Series REF_AREA="EST">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="85.88" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="85.88" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="EU27_2020">
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="89.32" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="89.32" />
     </ns1:Series>
     <ns1:Series REF_AREA="FIN">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="88.28" />
@@ -169,6 +177,10 @@
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="84.49" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="84.49" />
     </ns1:Series>
+    <ns1:Series REF_AREA="OECD">
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="89.81" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="89.81" />
+    </ns1:Series>
     <ns1:Series REF_AREA="PER">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="90.61" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="90.61" />
@@ -204,6 +216,10 @@
     <ns1:Series REF_AREA="USA">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="91.73" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="91.73" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="VNM">
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="90.82" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="90.82" />
     </ns1:Series>
     <ns1:Series REF_AREA="ZAF">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="83.91" />

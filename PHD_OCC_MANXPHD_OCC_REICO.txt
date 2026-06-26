@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>77E7B456-64B8-474E-A979-656BAC5C20F9</message:ID>
+    <message:ID>939BE85C-5FE8-4CA0-A04A-B373D030C098</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -46,7 +46,7 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="6.46" />
     </ns1:Series>
     <ns1:Series REF_AREA="CAN">
-      <ns1:Obs TIME_PERIOD="2011" OBS_VALUE="8.73" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="9.16" />
     </ns1:Series>
     <ns1:Series REF_AREA="CHE">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="10.33" />
@@ -60,7 +60,6 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="13.56" />
     </ns1:Series>
     <ns1:Series REF_AREA="CYP">
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="8.05" />
       <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="15.32" />
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="4.96" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="4.96" />
@@ -149,12 +148,10 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="8.39" />
     </ns1:Series>
     <ns1:Series REF_AREA="ISL">
-      <ns1:Obs TIME_PERIOD="2014" OBS_VALUE="11.21" />
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="15.33" />
       <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="19.14" />
     </ns1:Series>
     <ns1:Series REF_AREA="ISR">
-      <ns1:Obs TIME_PERIOD="2011" OBS_VALUE="9.37" />
       <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="9.44" />
     </ns1:Series>
     <ns1:Series REF_AREA="ITA">
