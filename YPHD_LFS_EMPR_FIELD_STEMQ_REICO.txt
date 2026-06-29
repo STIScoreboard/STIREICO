@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v8.19.8.0-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <message:Header>
+    <message:ID>D8103067-D4FA-4AF9-8B8A-679FA92FBBD2</message:ID>
+    <message:Test>false</message:Test>
+    <message:Sender id="Disseminate_Final_DMZ" />
+    <message:DataSetID>DSD_RDTAX</message:DataSetID>
+    <message:DataSetAction>Information</message:DataSetAction>
+  </message:Header>
+  <ns1:DataSet action="Information">
+    <ns1:Series REF_AREA="BEL">
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="100.0" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="FIN">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="81.76442763" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="81.74730566" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="83.55758267" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="85.07555372" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="84.36018957" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="84.72500557" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="86.002886" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="86.47623862" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="86.0842948" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="LTU">
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="98.0030722" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="NLD">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="93.64263406" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="PRT">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="90.17977612" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="95.55327721" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="91.33467079" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="USA">
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="95.31115617" />
+    </ns1:Series>
+  </ns1:DataSet>
+</message:StructureSpecificData>
