@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v8.19.8.0-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <message:Header>
+    <message:ID>1464A440-1B16-4A78-A352-5D3F3A116DFD</message:ID>
+    <message:Test>false</message:Test>
+    <message:Sender id="Disseminate_Final_DMZ" />
+    <message:DataSetID>DSD_RDTAX</message:DataSetID>
+    <message:DataSetAction>Information</message:DataSetAction>
+  </message:Header>
+  <ns1:DataSet action="Information">
+    <ns1:Series REF_AREA="AUT">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="6.9072706" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="6.86502402" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="6.79651576" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="6.66461861" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="6.70281536" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="6.53295129" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="BRA">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="0.63080393" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="0.65017012" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="0.75335679" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="0.8022465" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="0.80400214" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="0.85869274" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="1.00250171" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="1.13838552" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="1.09731249" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="CHE">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="4.91402809" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="4.03322684" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="5.07656171" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="4.84388354" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="6.04051206" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="5.96328614" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="5.31163695" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="4.50464515" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="4.9597091" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="CHL">
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="2.91967404" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="CZE">
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="4.18296707" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="DEU">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="3.40857808" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="3.5024737" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="3.31650021" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="3.53391721" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="4.04668437" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="3.34848122" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="DNK">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="3.79610793" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="4.10495585" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="4.49041372" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="4.67862386" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="4.84401166" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="4.5932304" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="4.47309417" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="4.95484759" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="5.16186365" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="5.70202771" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="ESP">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="7.87332396" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="8.34144433" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="8.86441586" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="EST">
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="2.9342723" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="2.93671845" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="2.67972648" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="2.80307088" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="2.94627383" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="2.79329609" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="3.12294543" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="3.15891787" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="FIN">
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="2.2873678" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="2.30219635" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="2.40810366" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="2.51716247" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="GBR">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="2.44032454" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="2.25273257" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="2.55760647" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="3.06547198" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="1.88045651" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="2.73474442" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="2.6428587" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="1.79961655" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="2.22194083" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="3.12328042" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="GRC">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="6.16413414" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="HRV">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="2.65653028" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="HUN">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="9.18625875" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="ITA">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="7.56478454" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="KOR">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="3.7359826" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="2.62605674" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="2.65796628" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="3.02689007" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="3.59352354" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="3.59000833" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="3.45091401" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="4.1342692" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="3.75777211" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="3.6890698" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="LTU">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="4.90509704" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="LVA">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="5.04103165" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="4.77880293" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="4.28973277" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="4.42477876" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="MLT">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="6.31578947" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="NOR">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="6.74626476" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="7.05325738" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="6.62821569" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="6.51753577" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="5.34018872" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="4.68085106" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="4.73970691" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="4.76626701" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="4.85996055" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="4.64974669" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="NZL">
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="5.84483014" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="4.83305037" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="ROU">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="16.06853692" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="SVN">
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="9.45262448" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="9.50688493" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="4.60542882" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="5.14880952" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="6.71671018" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="6.6184632" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="SWE">
+      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="3.96186595" />
+      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="3.79843274" />
+      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="3.19523029" />
+      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="3.37647434" />
+      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="4.28622123" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="5.38890643" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="3.08389982" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="3.10971671" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="TUR">
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="9.11938081" />
+    </ns1:Series>
+    <ns1:Series REF_AREA="USA">
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="2.44654166" />
+    </ns1:Series>
+  </ns1:DataSet>
+</message:StructureSpecificData>
