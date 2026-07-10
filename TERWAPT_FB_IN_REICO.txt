@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>65D932C3-7838-4132-AF30-653352EE22FE</message:ID>
+    <message:ID>43B8072A-B551-4C27-863A-2925982EB043</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -14,11 +14,11 @@
     </ns1:Series>
     <ns1:Series REF_AREA="KOR">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="100.0" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="82.50169442" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="82.5" />
     </ns1:Series>
     <ns1:Series REF_AREA="TUR">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="100.0" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="128.8154031" />
+      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="128.82" />
     </ns1:Series>
   </ns1:DataSet>
 </message:StructureSpecificData>
