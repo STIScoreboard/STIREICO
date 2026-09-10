@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>4A50B044-A9C2-4FC3-A354-C9EC18EA2AD7</message:ID>
+    <message:ID>8564A6C2-A68C-4F62-A30D-E54E7B45AB0B</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -61,10 +61,11 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="40.15" />
     </ns1:Series>
     <ns1:Series REF_AREA="EU27_2020">
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="35.82" />
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="34.43" />
-      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="33.89" />
-      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="34.44" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.44" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="34.19" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="34.01" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="34.01" />
     </ns1:Series>
     <ns1:Series REF_AREA="FIN">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="33.37" />
@@ -130,8 +131,9 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="25.6" />
     </ns1:Series>
     <ns1:Series REF_AREA="LTU">
-      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="41.64" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="41.64" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="37.98" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="39.22" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="39.22" />
     </ns1:Series>
     <ns1:Series REF_AREA="MLT">
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="29.24" />
