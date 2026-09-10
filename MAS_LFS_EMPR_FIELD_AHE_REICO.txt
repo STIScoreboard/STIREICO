@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>3A0CFFEB-C7D8-44A9-89C1-9B97C0AE1632</message:ID>
+    <message:ID>2CA09459-15B1-4EDB-9A20-0A698E6B8FB8</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -61,11 +61,11 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="93.44" />
     </ns1:Series>
     <ns1:Series REF_AREA="EU27_2020">
-      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="87.14" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="87.25" />
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="87.34" />
-      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="87.69" />
-      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="89.87" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="89.87" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="87.71" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="89.65" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="89.65" />
     </ns1:Series>
     <ns1:Series REF_AREA="FIN">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="84.43" />
@@ -128,8 +128,9 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="81.75" />
     </ns1:Series>
     <ns1:Series REF_AREA="LTU">
-      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="93.58" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="93.58" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="88.98" />
+      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="88.0" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="88.0" />
     </ns1:Series>
     <ns1:Series REF_AREA="LUX">
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="87.02" />

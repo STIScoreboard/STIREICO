@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>2B60C306-9F9E-4E4D-B32F-B5584E238CCE</message:ID>
+    <message:ID>8BDAD52E-A4E8-4CDD-B2E8-052C8CF9440E</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -96,17 +96,6 @@
       <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="130.12" />
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="133.7" />
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="136.66" />
-    </ns1:Series>
-    <ns1:Series REF_AREA="CHN">
-      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="100.0" />
-      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="104.92" />
-      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="110.68" />
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="117.91" />
-      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="127.12" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="138.78" />
-      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="152.25" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="165.87" />
-      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="180.49" />
     </ns1:Series>
     <ns1:Series REF_AREA="COL">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="100.0" />
@@ -246,17 +235,6 @@
       <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="140.46" />
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="145.61" />
       <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="146.47" />
-    </ns1:Series>
-    <ns1:Series REF_AREA="IND">
-      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="100.0" />
-      <ns1:Obs TIME_PERIOD="2016" OBS_VALUE="112.25" />
-      <ns1:Obs TIME_PERIOD="2017" OBS_VALUE="122.75" />
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="139.68" />
-      <ns1:Obs TIME_PERIOD="2019" OBS_VALUE="146.93" />
-      <ns1:Obs TIME_PERIOD="2020" OBS_VALUE="174.42" />
-      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="178.93" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="178.67" />
-      <ns1:Obs TIME_PERIOD="2023" OBS_VALUE="200.05" />
     </ns1:Series>
     <ns1:Series REF_AREA="IRL">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="100.0" />

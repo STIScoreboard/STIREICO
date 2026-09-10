@@ -2,7 +2,7 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>97978300-BC70-45A3-8DCC-338868F8192B</message:ID>
+    <message:ID>DA69A74C-CA00-4B12-A630-FF0969BD8409</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
@@ -119,8 +119,10 @@
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="17.8" />
     </ns1:Series>
     <ns1:Series REF_AREA="LTU">
-      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="25.44" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="25.44" />
+      <ns1:Obs TIME_PERIOD="2021" OBS_VALUE="26.46" />
+      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="22.42" />
+      <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="21.28" />
+      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="21.28" />
     </ns1:Series>
     <ns1:Series REF_AREA="LUX">
       <ns1:Obs TIME_PERIOD="2024" OBS_VALUE="23.13" />

@@ -2,18 +2,13 @@
 <!--NSI Web Service v8.19.8.0-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_RDTAX(1.1):compact" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v3_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>B98300B2-C3B4-4D00-AD49-116CEDEDD539</message:ID>
+    <message:ID>C5315C51-9476-4749-8E64-75C0ED9545A6</message:ID>
     <message:Test>false</message:Test>
     <message:Sender id="Disseminate_Final_DMZ" />
     <message:DataSetID>DSD_RDTAX</message:DataSetID>
     <message:DataSetAction>Information</message:DataSetAction>
   </message:Header>
   <ns1:DataSet action="Information">
-    <ns1:Series REF_AREA="ARG">
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="29.58" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="31.87" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="31.87" />
-    </ns1:Series>
     <ns1:Series REF_AREA="AUS">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="34.56" />
       <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="37.29" />
@@ -234,12 +229,6 @@
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="32.96" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="32.96" />
     </ns1:Series>
-    <ns1:Series REF_AREA="PER">
-      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="41.77" />
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="40.37" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="44.85" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="44.85" />
-    </ns1:Series>
     <ns1:Series REF_AREA="POL">
       <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="24.23" />
       <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="33.76" />
@@ -287,12 +276,6 @@
       <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="45.22" />
       <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="40.74" />
       <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="40.74" />
-    </ns1:Series>
-    <ns1:Series REF_AREA="VNM">
-      <ns1:Obs TIME_PERIOD="2015" OBS_VALUE="22.57" />
-      <ns1:Obs TIME_PERIOD="2018" OBS_VALUE="22.08" />
-      <ns1:Obs TIME_PERIOD="2022" OBS_VALUE="17.17" />
-      <ns1:Obs TIME_PERIOD="2999" OBS_VALUE="17.17" />
     </ns1:Series>
   </ns1:DataSet>
 </message:StructureSpecificData>
